@@ -1,0 +1,6 @@
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/bin/Debug/Collection.dll
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/bin/Debug/Collection.pdb
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/obj/Debug/Collection.csprojAssemblyReference.cache
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/obj/Debug/Collection.csproj.CoreCompileInputs.cache
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/obj/Debug/Collection.dll
+/Users/anyalebedenko/RiderProjects/Solution1/Collection/obj/Debug/Collection.pdb
